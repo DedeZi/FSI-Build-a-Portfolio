@@ -16,8 +16,10 @@
     color: white;
     text-align: center;}
 h3 {border-style: groove;}
+
 p {font-size: 20px;
     text-align: center;}
+    
 img {  border-style: dotted;
     border-width: thick;
     border-radius: 50px;
